@@ -1,3 +1,5 @@
+mod model;
+
 use log::{debug, info, warn};
 use simple_logger::{SimpleLogger};
 
