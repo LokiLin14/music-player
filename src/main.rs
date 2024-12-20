@@ -1,4 +1,7 @@
 mod model;
+mod ui;
+mod music_player;
+mod app;
 
 use log::{debug, info, warn};
 use simple_logger::{SimpleLogger};
